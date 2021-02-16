@@ -4,7 +4,7 @@ citEntry(entry = "manual",
   author = "Mehdi Moradi",
   title = "LACPD: Locally adaptive change-point detection",
   publisher = "",
-  year = "2020",
+  year = "2021",
 )
 
 citEntry(entry = "article",
@@ -15,7 +15,7 @@ citEntry(entry = "article",
   number="",
   pages="",
   publisher = "",
-  year = "2020",
+  year = "2021",
   url = "",
-  textVersion = "Moradi, M., Montesino-SanMartin, M., Ugarte, M.D., and Militino, A.F. (2020) Locally adaptive change-point detection (LACPD) with applications to environmental changes"
+  textVersion = "Moradi, M., Montesino-SanMartin, M., Ugarte, M.D., and Militino, A.F. (2021) Locally adaptive change-point detection (LACPD) with applications to environmental changes"
 )
