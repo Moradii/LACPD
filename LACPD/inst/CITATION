@@ -5,17 +5,18 @@ citEntry(entry = "manual",
   title = "LACPD: Locally adaptive change-point detection",
   publisher = "",
   year = "2021",
+  textVersion = "Moradi, M. (2021) LACPD: Locally adaptive change-point detection."
 )
 
 citEntry(entry = "article",
   author = "Moradi, M., Montesino-SanMartin, M., Ugarte, M.D., and Militino, A.F.",
   title = "Locally adaptive change-point detection (LACPD) with applications to environmental changes",
-  journal="Submitted for publication",
-  volume="",
-  number="",
-  pages="",
-  publisher = "",
-  year = "2021",
+  journal="Stochastic Environmental Research and Risk Assessment",
+  volume="36",
+  number="1",
+  pages="251--269",
+  publisher = "Springer",
+  year = "2022",
   url = "",
-  textVersion = "Moradi, M., Montesino-SanMartin, M., Ugarte, M.D., and Militino, A.F. (2021) Locally adaptive change-point detection (LACPD) with applications to environmental changes"
+  textVersion = "Moradi, M., Montesino-SanMartin, M., Ugarte, M.D. and Militino, A.F., 2022. Locally adaptive change-point detection (LACPD) with applications to environmental changes. Stochastic Environmental Research and Risk Assessment, 36(1), pp.251-269."
 )
